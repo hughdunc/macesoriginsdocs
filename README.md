@@ -2,11 +2,8 @@
 <summary>Human</summary>
 
 **Impact: 0**
+
 A regular human. Your ordinary Minecraft experience awaits.
-
-**Abilities:**
-
-**Weaknesses:**
 
 </details>
 
@@ -14,6 +11,7 @@ A regular human. Your ordinary Minecraft experience awaits.
 <summary>Avian</summary>
 
 **Impact: 1**
+
 The Avian race has lost their ability to fly a long time ago. Now these peaceful creatures can be seen gliding from one place to another.
 
 **Abilities:**
@@ -36,6 +34,7 @@ The Avian race has lost their ability to fly a long time ago. Now these peaceful
 <summary>Arachnid</summary>
 
 **Impact: 1**
+
 Their climbing abilities and the ability to trap their foes in spiderweb make the Arachnid perfect hunters.
 
 **Abilities:**
@@ -58,6 +57,7 @@ Their climbing abilities and the ability to trap their foes in spiderweb make th
 <summary>Elytrian</summary>
 
 **Impact: 1**
+
 Often flying around in the winds, Elytrians are uncomfortable when they don't have enough space above their head.
 
 **Abilities:**
@@ -82,6 +82,7 @@ Often flying around in the winds, Elytrians are uncomfortable when they don't ha
 <summary>Shulk</summary>
 
 **Impact: 1**
+
 Related to Shulkers, the bodies of the Shulk are outfitted with a protective shell-like skin.
 
 **Abilities:**
@@ -104,6 +105,7 @@ Related to Shulkers, the bodies of the Shulk are outfitted with a protective she
 <summary>Feline</summary>
 
 **Impact: 2**
+
 With their cat-like appearance, the Feline scare creepers away. With the dexterity of cats, they always land safely on their feet.
 
 **Abilities:**
@@ -126,6 +128,7 @@ With their cat-like appearance, the Feline scare creepers away. With the dexteri
 <summary>Enderian</summary>
 
 **Impact: 2**
+
 Born as sons and daughters of the Ender Dragon, Enderians are capable of teleporting but are vulnerable to water.
 
 **Abilities:**
@@ -144,6 +147,7 @@ Born as sons and daughters of the Ender Dragon, Enderians are capable of telepor
 <summary>Merling</summary>
 
 **Impact: 3**
+
 These natural inhabitants of the ocean are not used to being out of the water for too long.
 
 **Abilities:**
@@ -154,14 +158,13 @@ These natural inhabitants of the ocean are not used to being out of the water fo
 * Like Water
    * When underwater, you do not sink to the ground unless you want to.
 
-**Weaknesses:**
-
 </details>
 
 <details>
 <summary>Blazeborn</summary>
 
 **Impact: 3**
+
 Late descendants of the Blaze, the Blazeborn are naturally immune to the perils of the Nether.
 
 **Abilities:**
@@ -190,6 +193,7 @@ Late descendants of the Blaze, the Blazeborn are naturally immune to the perils 
 <summary>Phantom</summary>
 
 **Impact: 3**
+
 Half-human, half-phantom offspring, gliding silently through the night on unseen wings.
 
 **Abilities:**
@@ -212,6 +216,7 @@ Half-human, half-phantom offspring, gliding silently through the night on unseen
 <summary>Anomaly</summary>
 
 **Impact: 3**
+
 Once an ancient star, now unstable energy.
 
 **Abilities:**
@@ -234,6 +239,7 @@ Once an ancient star, now unstable energy.
 <summary>Beaver</summary>
 
 **Impact: 2**
+
 Beavers are large, semi-aquatic rodents in the genus 'castor' native to the temperate northern hemisphere.
 
 **Abilities:**
@@ -246,14 +252,13 @@ Beavers are large, semi-aquatic rodents in the genus 'castor' native to the temp
 * Beaver Rage
    * Fly into a rage, gaining speed and regeneration for 10 seconds. (60s cooldown)
 
-**Weaknesses:**
-
 </details>
 
 <details>
 <summary>Bird</summary>
 
 **Impact: 3**
+
 Birds are small and very cute. They can also fly and chirp.
 
 **Abilities:**
@@ -280,6 +285,7 @@ Birds are small and very cute. They can also fly and chirp.
 <summary>Blob</summary>
 
 **Impact: 2**
+
 You are some kind of blob, you don't know anything about yourself but you seem to know already about the world around you.
 
 **Abilities:**
@@ -304,6 +310,7 @@ You are some kind of blob, you don't know anything about yourself but you seem t
 <summary>Boarling</summary>
 
 **Impact: 2**
+
 This tough-skinned race relies on their strength alone to get by in life.
 
 **Abilities:**
@@ -326,6 +333,7 @@ This tough-skinned race relies on their strength alone to get by in life.
 <summary>Broodmother</summary>
 
 **Impact: 3**
+
 The mother of the arachnid colonies, the broodmother is an elder being capable of great destruction. Often feared by those who utter the name.
 
 **Abilities:**
@@ -346,14 +354,13 @@ The mother of the arachnid colonies, the broodmother is an elder being capable o
 * Spider Strength
    * Your anatomy allows you to be stronger.
 
-**Weaknesses:**
-
 </details>
 
 <details>
 <summary>Cobra</summary>
 
 **Impact: 1**
+
 You are a small cobra, your fangs are full of poison and you are ready to attack when you need to.
 
 **Abilities:**
@@ -378,6 +385,7 @@ You are a small cobra, your fangs are full of poison and you are ready to attack
 <summary>Copper Golem</summary>
 
 **Impact: 3**
+
 Comprised entirely of copper, 'tis a sturdy machine.
 
 **Abilities:**
@@ -400,6 +408,7 @@ Comprised entirely of copper, 'tis a sturdy machine.
 <summary>Demi-God</summary>
 
 **Impact: 2**
+
 Through relentless training, you've transcended mortal limits, rivaling even the strongest foes.
 
 **Abilities:**
@@ -432,6 +441,7 @@ Through relentless training, you've transcended mortal limits, rivaling even the
 <summary>Dolphin</summary>
 
 **Impact: 2**
+
 Dolphins are aquatic creatures that likes to jump out of the water, and are most likely found in the ocean.
 
 **Abilities:**
@@ -452,6 +462,7 @@ Dolphins are aquatic creatures that likes to jump out of the water, and are most
 <summary>Fallen Angel</summary>
 
 **Impact: 3**
+
 After spending an eternity in hell, you finally escaped and are craving some revenge.
 
 **Abilities:**
@@ -484,6 +495,7 @@ After spending an eternity in hell, you finally escaped and are craving some rev
 <summary>Flea</summary>
 
 **Impact: 3**
+
 A nasty little bloodsucking pest...
 
 **Abilities:**
@@ -506,6 +518,7 @@ A nasty little bloodsucking pest...
 <summary>Frog</summary>
 
 **Impact: 3**
+
 Your frog character has certain traits deriving from your frog ancestry.
 
 **Abilities:**
@@ -528,6 +541,7 @@ Your frog character has certain traits deriving from your frog ancestry.
 <summary>Ghast</summary>
 
 **Impact: 3**
+
 Ghosts of players who died in the nether, the only thing these spirits can remember is that they were trying to find a way back home.
 
 **Abilities:**
@@ -550,6 +564,7 @@ Ghosts of players who died in the nether, the only thing these spirits can remem
 <summary>Giant</summary>
 
 **Impact: 3**
+
 The giants are an ancient race, becoming quite a rare sight in modern times. Their history remains unknown with few left to keep it alive.
 
 **Abilities:**
@@ -582,6 +597,7 @@ The giants are an ancient race, becoming quite a rare sight in modern times. The
 <summary>Glacier</summary>
 
 **Impact: 3**
+
 A mystical creature born out of snow and ice. You were created out of the cold and have lived long enough to know that the cold can kill all.
 
 **Abilities:**
@@ -610,6 +626,7 @@ A mystical creature born out of snow and ice. You were created out of the cold a
 <summary>Gnoll</summary>
 
 **Impact: 3**
+
 You are a strong, large, carrion eater with a temper!
 
 **Abilities:**
@@ -636,6 +653,7 @@ You are a strong, large, carrion eater with a temper!
 <summary>Ignisian</summary>
 
 **Impact: 3**
+
 Archdemons exiled after the rebellion. Weakened by the retribution, the betrayed Ignisians were driven to the shadows. Day by day, their power grows, and soon, vengeance will be theirs.
 
 **Abilities:**
@@ -662,6 +680,7 @@ Archdemons exiled after the rebellion. Weakened by the retribution, the betrayed
 <summary>Lepus</summary>
 
 **Impact: 1**
+
 An evolutionary branch of common rabbits, the Lepus love to explore and scavenge lost ruins for loot.
 
 **Abilities:**
@@ -684,6 +703,7 @@ An evolutionary branch of common rabbits, the Lepus love to explore and scavenge
 <summary>Moth</summary>
 
 **Impact: 2**
+
 The light calls to you.
 
 **Abilities:**
@@ -706,6 +726,7 @@ The light calls to you.
 <summary>Mouse</summary>
 
 **Impact: 3**
+
 A small scavenger.
 
 **Abilities:**
@@ -730,6 +751,7 @@ A small scavenger.
 <summary>Ninetails</summary>
 
 **Impact: 3**
+
 Legend has it that Ninetails came into being when nine wizards possessing sacred powers merged into one.
 
 **Abilities:**
@@ -740,14 +762,13 @@ Legend has it that Ninetails came into being when nine wizards possessing sacred
 * Willow Wisp
    * You are able to shoot fireballs.
 
-**Weaknesses:**
-
 </details>
 
 <details>
 <summary>Pixie</summary>
 
 **Impact: 3**
+
 You are a mischievous elf-like spirit.
 
 **Abilities:**
@@ -768,6 +789,7 @@ You are a mischievous elf-like spirit.
 <summary>Rat</summary>
 
 **Impact: 2**
+
 You are a small critter of the night. You hunt and are filthy to others.
 
 **Abilities:**
@@ -790,6 +812,7 @@ You are a small critter of the night. You hunt and are filthy to others.
 <summary>Ravager</summary>
 
 **Impact: 2**
+
 You are an illager experiment, something between their normal kind and the massive illager beasts known as ravagers.
 
 **Abilities:**
@@ -818,6 +841,7 @@ You are an illager experiment, something between their normal kind and the massi
 <summary>Ryu</summary>
 
 **Impact: 3**
+
 You are a legendary creature born from the heavens.
 
 **Abilities:**
@@ -844,6 +868,7 @@ You are a legendary creature born from the heavens.
 <summary>Shadow</summary>
 
 **Impact: 3**
+
 You are one with the shadows.
 
 **Abilities:**
@@ -866,6 +891,7 @@ You are one with the shadows.
 <summary>Spectre</summary>
 
 **Impact: 3**
+
 Archangels corrupted by the devil during the war. The curse stripped off their wings and made them ravenous for flesh. They now roam aimlessly, hoping to regain their former glory.
 
 **Abilities:**
@@ -896,6 +922,7 @@ Archangels corrupted by the devil during the war. The curse stripped off their w
 <summary>Sporeling</summary>
 
 **Impact: 3**
+
 A tiny floaty mushroom-person that came out of the ground and started doing stuff.
 
 **Abilities:**
@@ -920,6 +947,7 @@ A tiny floaty mushroom-person that came out of the ground and started doing stuf
 <summary>Mountain Goat</summary>
 
 **Impact: 1**
+
 Protective of their homes, they often ram unfamiliar people off cliffs where they live.
 
 **Abilities:**
@@ -942,6 +970,7 @@ Protective of their homes, they often ram unfamiliar people off cliffs where the
 <summary>Allay</summary>
 
 **Impact: 2**
+
 A tiny, friendly spirit that loves to collect things. You flutter through the air, gathering treasures and spreading joy.
 
 **Abilities:**
@@ -968,6 +997,7 @@ A tiny, friendly spirit that loves to collect things. You flutter through the ai
 <summary>Axolotl</summary>
 
 **Impact: 2**
+
 The adorable amphibian with incredible regenerative powers. You thrive in water and heal rapidly, but dry land saps your strength.
 
 **Abilities:**
@@ -994,6 +1024,7 @@ The adorable amphibian with incredible regenerative powers. You thrive in water 
 <summary>Bat</summary>
 
 **Impact: 3**
+
 A creature of the night. Tiny, agile, and capable of flight. You see perfectly in darkness but despise the sun.
 
 **Abilities:**
@@ -1020,6 +1051,7 @@ A creature of the night. Tiny, agile, and capable of flight. You see perfectly i
 <summary>Bear</summary>
 
 **Impact: 2**
+
 A massive, powerful creature of the wild. Immense strength and health, but your large frame makes you slow and clumsy.
 
 **Abilities:**
@@ -1046,6 +1078,7 @@ A massive, powerful creature of the wild. Immense strength and health, but your 
 <summary>Bee</summary>
 
 **Impact: 3**
+
 A fuzzy little buzzer. You can fly, sting your enemies with venom, and you love flowers but you're incredibly fragile.
 
 **Abilities:**
@@ -1074,6 +1107,7 @@ A fuzzy little buzzer. You can fly, sting your enemies with venom, and you love 
 <summary>Centaur</summary>
 
 **Impact: 2**
+
 Half-human, half-horse. You gallop across the land with unmatched speed and deliver devastating charges, but your large body is a target.
 
 **Abilities:**
@@ -1100,6 +1134,7 @@ Half-human, half-horse. You gallop across the land with unmatched speed and deli
 <summary>Chicken</summary>
 
 **Impact: 1**
+
 Bawk bawk! You're a chicken. You lay eggs, float gently downward, and run around in a panic. Not the bravest of origins.
 
 **Abilities:**
@@ -1126,6 +1161,7 @@ Bawk bawk! You're a chicken. You lay eggs, float gently downward, and run around
 <summary>Creeper</summary>
 
 **Impact: 3**
+
 The iconic green menace. You can charge up and release a devastating explosion, but you're fragile and everyone runs from you.
 
 **Abilities:**
@@ -1152,6 +1188,7 @@ The iconic green menace. You can charge up and release a devastating explosion, 
 <summary>Drowned</summary>
 
 **Impact: 3**
+
 A waterlogged undead warrior. You thrive in the ocean depths, wielding trident-like strikes, but sunlight and dry land weaken you.
 
 **Abilities:**
@@ -1180,6 +1217,7 @@ A waterlogged undead warrior. You thrive in the ocean depths, wielding trident-l
 <summary>Dwarf</summary>
 
 **Impact: 2**
+
 Short, stout, and incredibly tough. You were born underground and thrive in tight spaces. Your sturdy build makes you a formidable warrior.
 
 **Abilities:**
@@ -1206,6 +1244,7 @@ Short, stout, and incredibly tough. You were born underground and thrive in tigh
 <summary>Elf</summary>
 
 **Impact: 2**
+
 Graceful and agile woodland warriors. Your keen senses and nimble body make you deadly, but your slender frame is fragile.
 
 **Abilities:**
@@ -1232,6 +1271,7 @@ Graceful and agile woodland warriors. Your keen senses and nimble body make you 
 <summary>Fox</summary>
 
 **Impact: 2**
+
 A sly and cunning creature. Small, fast, and stealthy. You see in the dark and carry treasures in your mouth.
 
 **Abilities:**
@@ -1260,6 +1300,7 @@ A sly and cunning creature. Small, fast, and stealthy. You see in the dark and c
 <summary>Iron Golem</summary>
 
 **Impact: 3**
+
 A hulking protector forged from iron. Immensely powerful and durable, but your massive metal body is slow and sinks in water.
 
 **Abilities:**
@@ -1288,6 +1329,7 @@ A hulking protector forged from iron. Immensely powerful and durable, but your m
 <summary>Guardian</summary>
 
 **Impact: 3**
+
 An ancient protector of the ocean monuments. Your spiny body damages attackers, and you fire devastating beams at enemies.
 
 **Abilities:**
@@ -1316,6 +1358,7 @@ An ancient protector of the ocean monuments. Your spiny body damages attackers, 
 <summary>Husk</summary>
 
 **Impact: 2**
+
 A desiccated undead born of the desert. The sun empowers you, water weakens you, and your dried-out touch inflicts hunger on your foes.
 
 **Abilities:**
@@ -1344,6 +1387,7 @@ A desiccated undead born of the desert. The sun empowers you, water weakens you,
 <summary>Kobold</summary>
 
 **Impact: 2**
+
 A tiny reptilian creature that thrives underground. Cunning, quick, and crafty but frail and afraid of sunlight.
 
 **Abilities:**
@@ -1370,6 +1414,7 @@ A tiny reptilian creature that thrives underground. Cunning, quick, and crafty b
 <summary>Llama</summary>
 
 **Impact: 1**
+
 A sturdy, spit-happy pack animal. You carry loads of cargo and spit at your enemies. Not the most glamorous, but effective.
 
 **Abilities:**
@@ -1394,6 +1439,7 @@ A sturdy, spit-happy pack animal. You carry loads of cargo and spit at your enem
 <summary>Minotaur</summary>
 
 **Impact: 3**
+
 A towering beast of legend. Half-man, half-bull, you charge through enemies with devastating force. Your rage is legendary.
 
 **Abilities:**
@@ -1422,6 +1468,7 @@ A towering beast of legend. Half-man, half-bull, you charge through enemies with
 <summary>Orc</summary>
 
 **Impact: 2**
+
 A brutal, green-skinned warrior. Born to fight, you live for combat. Your rage empowers you, but your brutish nature lacks finesse.
 
 **Abilities:**
@@ -1448,6 +1495,7 @@ A brutal, green-skinned warrior. Born to fight, you live for combat. Your rage e
 <summary>Panda</summary>
 
 **Impact: 1**
+
 A lovable, rotund bear. You're surprisingly tough and your tumbling body bounces off the ground. Eating is your favorite activity.
 
 **Abilities:**
@@ -1474,6 +1522,7 @@ A lovable, rotund bear. You're surprisingly tough and your tumbling body bounces
 <summary>Phoenix</summary>
 
 **Impact: 3**
+
 A legendary firebird reborn from ashes. You soar through skies wreathed in flame, immune to fire, with devastating power but water is lethal.
 
 **Abilities:**
@@ -1502,6 +1551,7 @@ A legendary firebird reborn from ashes. You soar through skies wreathed in flame
 <summary>Piglin</summary>
 
 **Impact: 2**
+
 A gold-obsessed warrior from the Nether. You're tough, aggressive, and immune to fire but you can't stand the cold of the overworld.
 
 **Abilities:**
@@ -1528,6 +1578,7 @@ A gold-obsessed warrior from the Nether. You're tough, aggressive, and immune to
 <summary>Polar Bear</summary>
 
 **Impact: 2**
+
 A massive arctic predator. You're immune to cold, powerful in combat, and swim well but fire and heat are devastating.
 
 **Abilities:**
@@ -1556,6 +1607,7 @@ A massive arctic predator. You're immune to cold, powerful in combat, and swim w
 <summary>Raccoon</summary>
 
 **Impact: 1**
+
 A mischievous nocturnal scavenger. Nimble paws, night vision, and a talent for stealing the ultimate trash panda.
 
 **Abilities:**
@@ -1580,6 +1632,7 @@ A mischievous nocturnal scavenger. Nimble paws, night vision, and a talent for s
 <summary>Skeleton</summary>
 
 **Impact: 2**
+
 Nothing but bones. You're light, fast, and see in the dark but sunlight burns you and your bony body is fragile.
 
 **Abilities:**
@@ -1606,6 +1659,7 @@ Nothing but bones. You're light, fast, and see in the dark but sunlight burns yo
 <summary>Slime</summary>
 
 **Impact: 2**
+
 A bouncy, jiggly cube of goo. You bounce everywhere, squeeze through gaps, and absorb impacts but fire melts you.
 
 **Abilities:**
@@ -1632,6 +1686,7 @@ A bouncy, jiggly cube of goo. You bounce everywhere, squeeze through gaps, and a
 <summary>Snow Golem</summary>
 
 **Impact: 2**
+
 A jolly snowman brought to life. You hurl snowballs, freeze the ground, and thrive in cold but heat and water are deadly.
 
 **Abilities:**
@@ -1658,6 +1713,7 @@ A jolly snowman brought to life. You hurl snowballs, freeze the ground, and thri
 <summary>Squid</summary>
 
 **Impact: 2**
+
 A deep-sea cephalopod. You thrive in the ocean's depths, move at incredible aquatic speed, and blind enemies with ink but you flop on land.
 
 **Abilities:**
@@ -1684,6 +1740,7 @@ A deep-sea cephalopod. You thrive in the ocean's depths, move at incredible aqua
 <summary>Turtle</summary>
 
 **Impact: 2**
+
 Slow and steady wins the race. Your shell provides incredible protection, you breathe underwater, and nothing can rush you because you're very slow.
 
 **Abilities:**
@@ -1710,6 +1767,7 @@ Slow and steady wins the race. Your shell provides incredible protection, you br
 <summary>Vampire</summary>
 
 **Impact: 3**
+
 An immortal predator of the night. You drain life from your victims, see in darkness, and gain immense power but sunlight is your doom.
 
 **Abilities:**
@@ -1738,6 +1796,7 @@ An immortal predator of the night. You drain life from your victims, see in dark
 <summary>Vex</summary>
 
 **Impact: 3**
+
 A tiny, vicious spirit summoned from the void. You fly and phase through blocks, but your minuscule body is incredibly fragile.
 
 **Abilities:**
@@ -1764,6 +1823,7 @@ A tiny, vicious spirit summoned from the void. You fly and phase through blocks,
 <summary>Warden</summary>
 
 **Impact: 3**
+
 The most terrifying creature in the deep dark. Immensely powerful and nearly indestructible but completely blind. You rely on vibrations.
 
 **Abilities:**
@@ -1794,6 +1854,7 @@ The most terrifying creature in the deep dark. Immensely powerful and nearly ind
 <summary>Werewolf</summary>
 
 **Impact: 3**
+
 A cursed shapeshifter. Under moonlight you are a fearsome beast fast, strong, and deadly. But the transformation is taxing.
 
 **Abilities:**
@@ -1822,6 +1883,7 @@ A cursed shapeshifter. Under moonlight you are a fearsome beast fast, strong, an
 <summary>Witch</summary>
 
 **Impact: 3**
+
 A master of potions and dark magic. You wield powerful buffs and hurl toxic projectiles but your body is frail from years of exposure to chemicals.
 
 **Abilities:**
@@ -1846,6 +1908,7 @@ A master of potions and dark magic. You wield powerful buffs and hurl toxic proj
 <summary>Wither Skeleton</summary>
 
 **Impact: 3**
+
 A charred skeletal warrior from the Nether. Tall, terrifying, and wielding withering power fire can't touch you, but water burns.
 
 **Abilities:**
@@ -1874,6 +1937,7 @@ A charred skeletal warrior from the Nether. Tall, terrifying, and wielding withe
 <summary>Wolf</summary>
 
 **Impact: 2**
+
 A loyal pack hunter. Fast, agile, and deadly in combat. Your wolf instincts give you strength and speed, especially when wounded.
 
 **Abilities:**
@@ -1900,6 +1964,7 @@ A loyal pack hunter. Fast, agile, and deadly in combat. Your wolf instincts give
 <summary>Zombie</summary>
 
 **Impact: 2**
+
 The classic undead. Slow, tough, and relentless. Your rotting body shrugs off damage, but sunlight burns and you're not winning any races.
 
 **Abilities:**
@@ -1928,6 +1993,7 @@ The classic undead. Slow, tough, and relentless. Your rotting body shrugs off da
 <summary>Zombie Piglin</summary>
 
 **Impact: 2**
+
 An undead piglin from the Nether. You're tough, fire-immune, and fly into a berserker rage when hurt but you're slow and hate water.
 
 **Abilities:**
@@ -1958,6 +2024,7 @@ An undead piglin from the Nether. You're tough, fire-immune, and fly into a bers
 <summary>Hydra</summary>
 
 **Impact: 3**
+
 The many-headed serpent of Lerna. Cut off one head and two more grow back. Legendary regeneration and venomous strikes.
 
 **Abilities:**
@@ -1986,6 +2053,7 @@ The many-headed serpent of Lerna. Cut off one head and two more grow back. Legen
 <summary>Medusa</summary>
 
 **Impact: 3**
+
 The cursed gorgon whose gaze turns mortals to stone. Serpent hair, venom, and a petrifying stare.
 
 **Abilities:**
@@ -2010,6 +2078,7 @@ The cursed gorgon whose gaze turns mortals to stone. Serpent hair, venom, and a 
 <summary>Cerberus</summary>
 
 **Impact: 3**
+
 The three-headed hound of the Underworld. Ferocious, tireless, fire-immune.
 
 **Abilities:**
@@ -2036,6 +2105,7 @@ The three-headed hound of the Underworld. Ferocious, tireless, fire-immune.
 <summary>Cyclops</summary>
 
 **Impact: 3**
+
 A one-eyed giant of incredible strength. Hurls boulders and crushes foes.
 
 **Abilities:**
@@ -2064,6 +2134,7 @@ A one-eyed giant of incredible strength. Hurls boulders and crushes foes.
 <summary>Siren</summary>
 
 **Impact: 3**
+
 An enchanting sea creature whose song lures sailors to their doom.
 
 **Abilities:**
@@ -2088,6 +2159,7 @@ An enchanting sea creature whose song lures sailors to their doom.
 <summary>Pegasus</summary>
 
 **Impact: 3**
+
 The divine winged horse. Soar through heavens on majestic wings.
 
 **Abilities:**
@@ -2112,6 +2184,7 @@ The divine winged horse. Soar through heavens on majestic wings.
 <summary>Griffin</summary>
 
 **Impact: 3**
+
 Half-eagle, half-lion king of creatures. Fly and strike with lion claws.
 
 **Abilities:**
@@ -2136,6 +2209,7 @@ Half-eagle, half-lion king of creatures. Fly and strike with lion claws.
 <summary>Chimera</summary>
 
 **Impact: 3**
+
 Lion, goat, serpent fusion. Fire breath, venom, and horn charge.
 
 **Abilities:**
@@ -2162,6 +2236,7 @@ Lion, goat, serpent fusion. Fire breath, venom, and horn charge.
 <summary>Harpy</summary>
 
 **Impact: 2**
+
 Shrieking wind spirit with woman's body and bird wings.
 
 **Abilities:**
@@ -2186,6 +2261,7 @@ Shrieking wind spirit with woman's body and bird wings.
 <summary>Kraken</summary>
 
 **Impact: 3**
+
 Legendary sea monster that devours ships whole.
 
 **Abilities:**
@@ -2212,6 +2288,7 @@ Legendary sea monster that devours ships whole.
 <summary>Sphinx</summary>
 
 **Impact: 2**
+
 The riddle-keeper with lion body and human wisdom.
 
 **Abilities:**
@@ -2234,6 +2311,7 @@ The riddle-keeper with lion body and human wisdom.
 <summary>Satyr</summary>
 
 **Impact: 1**
+
 A merry woodland spirit with goat legs. Leap across meadows and play enchanting music.
 
 **Abilities:**
@@ -2258,6 +2336,7 @@ A merry woodland spirit with goat legs. Leap across meadows and play enchanting 
 <summary>Manticore</summary>
 
 **Impact: 3**
+
 Lion body, man face, scorpion tail. Venomous spines and devastating jaws.
 
 **Abilities:**
@@ -2282,6 +2361,7 @@ Lion body, man face, scorpion tail. Venomous spines and devastating jaws.
 <summary>Basilisk</summary>
 
 **Impact: 3**
+
 King of serpents whose gaze and venom kill. Death incarnate.
 
 **Abilities:**
@@ -2306,6 +2386,7 @@ King of serpents whose gaze and venom kill. Death incarnate.
 <summary>Dryad</summary>
 
 **Impact: 1**
+
 A nature spirit bound to trees. Heal in sunlight, but fire is devastating.
 
 **Abilities:**
@@ -2330,6 +2411,7 @@ A nature spirit bound to trees. Heal in sunlight, but fire is devastating.
 <summary>Valkyrie</summary>
 
 **Impact: 3**
+
 Divine warrior maiden who chooses the slain. Fly, heal through combat, strike with holy power.
 
 **Abilities:**
@@ -2354,6 +2436,7 @@ Divine warrior maiden who chooses the slain. Fly, heal through combat, strike wi
 <summary>Fenrir</summary>
 
 **Impact: 3**
+
 The great wolf destined to devour the sun. Ragnarok incarnate.
 
 **Abilities:**
@@ -2382,6 +2465,7 @@ The great wolf destined to devour the sun. Ragnarok incarnate.
 <summary>Jormungandr</summary>
 
 **Impact: 3**
+
 The Level Serpent encircling Midgard. Cosmic venom, indestructible, sea master.
 
 **Abilities:**
@@ -2408,6 +2492,7 @@ The Level Serpent encircling Midgard. Cosmic venom, indestructible, sea master.
 <summary>Draugr</summary>
 
 **Impact: 2**
+
 An undead Norse warrior risen from the grave.
 
 **Abilities:**
@@ -2434,6 +2519,7 @@ An undead Norse warrior risen from the grave.
 <summary>Troll</summary>
 
 **Impact: 3**
+
 Massive stone-skinned mountain brute. Sunlight turns you to stone.
 
 **Abilities:**
@@ -2462,6 +2548,7 @@ Massive stone-skinned mountain brute. Sunlight turns you to stone.
 <summary>Anubis</summary>
 
 **Impact: 3**
+
 The jackal-headed god of the dead. Guide souls, command death.
 
 **Abilities:**
@@ -2488,6 +2575,7 @@ The jackal-headed god of the dead. Guide souls, command death.
 <summary>Bastet</summary>
 
 **Impact: 2**
+
 Egyptian cat goddess. Graceful, fast, deadly feline instincts.
 
 **Abilities:**
@@ -2512,6 +2600,7 @@ Egyptian cat goddess. Graceful, fast, deadly feline instincts.
 <summary>Mummy</summary>
 
 **Impact: 2**
+
 Ancient pharaoh risen. Enchanted bandages, cursed thorns.
 
 **Abilities:**
@@ -2538,6 +2627,7 @@ Ancient pharaoh risen. Enchanted bandages, cursed thorns.
 <summary>Scarab</summary>
 
 **Impact: 1**
+
 Sacred beetle of rebirth. Tiny, climbs walls, sun empowered.
 
 **Abilities:**
@@ -2562,6 +2652,7 @@ Sacred beetle of rebirth. Tiny, climbs walls, sun empowered.
 <summary>Ammit</summary>
 
 **Impact: 3**
+
 Devourer of the Dead lion, hippo, crocodile. Consume souls.
 
 **Abilities:**
@@ -2588,6 +2679,7 @@ Devourer of the Dead lion, hippo, crocodile. Consume souls.
 <summary>Kitsune</summary>
 
 **Impact: 3**
+
 Nine-tailed magical fox spirit. Foxfire, illusion, supernatural speed.
 
 **Abilities:**
@@ -2614,6 +2706,7 @@ Nine-tailed magical fox spirit. Foxfire, illusion, supernatural speed.
 <summary>Oni</summary>
 
 **Impact: 3**
+
 Fearsome Japanese demon. Massive, brutal, legendary rage.
 
 **Abilities:**
@@ -2640,6 +2733,7 @@ Fearsome Japanese demon. Massive, brutal, legendary rage.
 <summary>Tengu</summary>
 
 **Impact: 3**
+
 Mountain spirit, martial arts master. Crow wings and wind control.
 
 **Abilities:**
@@ -2666,6 +2760,7 @@ Mountain spirit, martial arts master. Crow wings and wind control.
 <summary>Kappa</summary>
 
 **Impact: 2**
+
 Turtle-like water demon. River dweller with wrestling strength.
 
 **Abilities:**
@@ -2690,6 +2785,7 @@ Turtle-like water demon. River dweller with wrestling strength.
 <summary>Tanuki</summary>
 
 **Impact: 1**
+
 Magical raccoon dog trickster. Lucky and collects treasures.
 
 **Abilities:**
@@ -2712,6 +2808,7 @@ Magical raccoon dog trickster. Lucky and collects treasures.
 <summary>Jorogumo</summary>
 
 **Impact: 3**
+
 Shape-shifting spider demon. Webs, venom, wall climbing.
 
 **Abilities:**
@@ -2738,6 +2835,7 @@ Shape-shifting spider demon. Webs, venom, wall climbing.
 <summary>Qilin</summary>
 
 **Impact: 2**
+
 Benevolent celestial creature. Luck, healing, divine light.
 
 **Abilities:**
@@ -2764,6 +2862,7 @@ Benevolent celestial creature. Luck, healing, divine light.
 <summary>Fenghuang</summary>
 
 **Impact: 3**
+
 Chinese phoenix, ruler of birds. Fly, fire immune, celestial power.
 
 **Abilities:**
@@ -2790,6 +2889,7 @@ Chinese phoenix, ruler of birds. Fly, fire immune, celestial power.
 <summary>Jiangshi</summary>
 
 **Impact: 2**
+
 Hopping Chinese vampire. Stiff but supernaturally strong, drains life.
 
 **Abilities:**
@@ -2814,6 +2914,7 @@ Hopping Chinese vampire. Stiff but supernaturally strong, drains life.
 <summary>Banshee</summary>
 
 **Impact: 3**
+
 Wailing spirit of death. Phase through walls, terrifying scream.
 
 **Abilities:**
@@ -2840,6 +2941,7 @@ Wailing spirit of death. Phase through walls, terrifying scream.
 <summary>Leprechaun</summary>
 
 **Impact: 1**
+
 Mischievous Irish fairy. Tiny, incredibly lucky, hoards gold.
 
 **Abilities:**
@@ -2864,6 +2966,7 @@ Mischievous Irish fairy. Tiny, incredibly lucky, hoards gold.
 <summary>Selkie</summary>
 
 **Impact: 2**
+
 Celtic seal shapeshifter. Graceful in water, walks on land.
 
 **Abilities:**
@@ -2886,6 +2989,7 @@ Celtic seal shapeshifter. Graceful in water, walks on land.
 <summary>Dullahan</summary>
 
 **Impact: 3**
+
 The headless horseman. Terrifying speed, lethal strikes.
 
 **Abilities:**
@@ -2912,6 +3016,7 @@ The headless horseman. Terrifying speed, lethal strikes.
 <summary>Changeling</summary>
 
 **Impact: 2**
+
 Fairy child swapped for a human. Small, magical, can phase through walls.
 
 **Abilities:**
@@ -2936,6 +3041,7 @@ Fairy child swapped for a human. Small, magical, can phase through walls.
 <summary>Baba Yaga</summary>
 
 **Impact: 3**
+
 Terrifying forest witch. Fly in mortar, dark magic.
 
 **Abilities:**
@@ -2960,6 +3066,7 @@ Terrifying forest witch. Fly in mortar, dark magic.
 <summary>Leshy</summary>
 
 **Impact: 2**
+
 Lord of the forest. Giant woodland protector, animals obey.
 
 **Abilities:**
@@ -2986,6 +3093,7 @@ Lord of the forest. Giant woodland protector, animals obey.
 <summary>Naga</summary>
 
 **Impact: 3**
+
 Divine serpent being. Guardian of treasures, master of water, divine venom.
 
 **Abilities:**
@@ -3012,6 +3120,7 @@ Divine serpent being. Guardian of treasures, master of water, divine venom.
 <summary>Garuda</summary>
 
 **Impact: 3**
+
 Divine eagle mount of Vishnu. King of birds, faster than wind.
 
 **Abilities:**
@@ -3038,6 +3147,7 @@ Divine eagle mount of Vishnu. King of birds, faster than wind.
 <summary>Rakshasa</summary>
 
 **Impact: 3**
+
 Shapeshifting Hindu demon. Dark magic, illusion, nearly invulnerable at night.
 
 **Abilities:**
@@ -3064,6 +3174,7 @@ Shapeshifting Hindu demon. Dark magic, illusion, nearly invulnerable at night.
 <summary>Wendigo</summary>
 
 **Impact: 3**
+
 Gaunt spirit of insatiable hunger from the frozen north. Eternal curse.
 
 **Abilities:**
@@ -3094,6 +3205,7 @@ Gaunt spirit of insatiable hunger from the frozen north. Eternal curse.
 <summary>Thunderbird</summary>
 
 **Impact: 3**
+
 Colossal divine bird creating thunder. Command storms.
 
 **Abilities:**
@@ -3120,6 +3232,7 @@ Colossal divine bird creating thunder. Command storms.
 <summary>Chupacabra</summary>
 
 **Impact: 2**
+
 Legendary goat-sucker. Nocturnal predator, drains blood.
 
 **Abilities:**
@@ -3146,6 +3259,7 @@ Legendary goat-sucker. Nocturnal predator, drains blood.
 <summary>Djinn</summary>
 
 **Impact: 3**
+
 Powerful spirit of smokeless fire. Fly, teleport, grant wishes.
 
 **Abilities:**
@@ -3172,6 +3286,7 @@ Powerful spirit of smokeless fire. Fly, teleport, grant wishes.
 <summary>Lich</summary>
 
 **Impact: 3**
+
 Undead sorcerer with soul bound to phylactery. Master of dark magic.
 
 **Abilities:**
@@ -3198,6 +3313,7 @@ Undead sorcerer with soul bound to phylactery. Master of dark magic.
 <summary>Angel</summary>
 
 **Impact: 3**
+
 Celestial being of pure light. Fly, heal, radiate holy power.
 
 **Abilities:**
@@ -3226,6 +3342,7 @@ Celestial being of pure light. Fly, heal, radiate holy power.
 <summary>Demon</summary>
 
 **Impact: 3**
+
 Fiend from the darkest abyss. Fire immune, flight, destruction.
 
 **Abilities:**
@@ -3254,6 +3371,7 @@ Fiend from the darkest abyss. Fire immune, flight, destruction.
 <summary>Wyvern</summary>
 
 **Impact: 3**
+
 Two-legged dragon with venomous tail. Speed and venom.
 
 **Abilities:**
@@ -3280,6 +3398,7 @@ Two-legged dragon with venomous tail. Speed and venom.
 <summary>Leviathan</summary>
 
 **Impact: 3**
+
 Primordial biblical sea monster. Terror of the deep.
 
 **Abilities:**
@@ -3306,6 +3425,7 @@ Primordial biblical sea monster. Terror of the deep.
 <summary>Behemoth</summary>
 
 **Impact: 3**
+
 Primordial biblical land beast. Nothing on earth is your equal.
 
 **Abilities:**
@@ -3334,6 +3454,7 @@ Primordial biblical land beast. Nothing on earth is your equal.
 <summary>Yeti</summary>
 
 **Impact: 2**
+
 Abominable snowman. Massive, powerful, frost adapted.
 
 **Abilities:**
@@ -3362,6 +3483,7 @@ Abominable snowman. Massive, powerful, frost adapted.
 <summary>Unicorn</summary>
 
 **Impact: 2**
+
 Magical horse with spiraling horn. Speed, healing, luck.
 
 **Abilities:**
@@ -3388,6 +3510,7 @@ Magical horse with spiraling horn. Speed, healing, luck.
 <summary>Goblin</summary>
 
 **Impact: 1**
+
 Small, cunning, greedy creature. Fast, crafty, fragile.
 
 **Abilities:**
@@ -3412,6 +3535,7 @@ Small, cunning, greedy creature. Fast, crafty, fragile.
 <summary>Ogre</summary>
 
 **Impact: 2**
+
 Massive brutish creature. Smashes first, asks never.
 
 **Abilities:**
@@ -3438,6 +3562,7 @@ Massive brutish creature. Smashes first, asks never.
 <summary>Salamander</summary>
 
 **Impact: 3**
+
 Elemental spirit of fire. Walk on lava, radiate heat.
 
 **Abilities:**
@@ -3464,6 +3589,7 @@ Elemental spirit of fire. Walk on lava, radiate heat.
 <summary>Mothman</summary>
 
 **Impact: 2**
+
 Cryptid prophet of doom. Glowing red eyes, massive wings.
 
 **Abilities:**
@@ -3490,6 +3616,7 @@ Cryptid prophet of doom. Glowing red eyes, massive wings.
 <summary>Titan</summary>
 
 **Impact: 3**
+
 A primordial god of immense power. Towering, ancient, and nearly unstoppable.
 
 **Abilities:**
@@ -3518,6 +3645,7 @@ A primordial god of immense power. Towering, ancient, and nearly unstoppable.
 <summary>Nemean Lion</summary>
 
 **Impact: 3**
+
 The invulnerable lion of Greek myth. Your golden hide cannot be pierced.
 
 **Abilities:**
@@ -3544,6 +3672,7 @@ The invulnerable lion of Greek myth. Your golden hide cannot be pierced.
 <summary>Sobek</summary>
 
 **Impact: 3**
+
 The Egyptian crocodile god. Lord of rivers, immense jaws, armored scales.
 
 **Abilities:**
@@ -3570,6 +3699,7 @@ The Egyptian crocodile god. Lord of rivers, immense jaws, armored scales.
 <summary>Pixiu</summary>
 
 **Impact: 2**
+
 A Chinese celestial beast that devours gold and never releases it. Immense luck and treasure hoarding.
 
 **Abilities:**
@@ -3594,6 +3724,7 @@ A Chinese celestial beast that devours gold and never releases it. Immense luck 
 <summary>Kelpie</summary>
 
 **Impact: 2**
+
 A shape-shifting water horse from Celtic mythology. Lures victims to watery graves.
 
 **Abilities:**
@@ -3620,6 +3751,7 @@ A shape-shifting water horse from Celtic mythology. Lures victims to watery grav
 <summary>Rusalka</summary>
 
 **Impact: 2**
+
 A Slavic water spirit. Enchanting and deadly, you lure victims to the depths.
 
 **Abilities:**
@@ -3646,6 +3778,7 @@ A Slavic water spirit. Enchanting and deadly, you lure victims to the depths.
 <summary>Yaksha</summary>
 
 **Impact: 2**
+
 A Hindu nature spirit and guardian of treasures. Powerful protector with divine strength.
 
 **Abilities:**
@@ -3670,6 +3803,7 @@ A Hindu nature spirit and guardian of treasures. Powerful protector with divine 
 <summary>Ifrit</summary>
 
 **Impact: 3**
+
 A powerful fire djinn of Arabian myth. Made of smokeless flame, you command infernos.
 
 **Abilities:**
@@ -3696,6 +3830,7 @@ A powerful fire djinn of Arabian myth. Made of smokeless flame, you command infe
 <summary>Roc</summary>
 
 **Impact: 3**
+
 The colossal bird of Arabian legend. So large you can carry elephants in your talons.
 
 **Abilities:**
@@ -3724,6 +3859,7 @@ The colossal bird of Arabian legend. So large you can carry elephants in your ta
 <summary>Quetzalcoatl</summary>
 
 **Impact: 3**
+
 The feathered serpent god of Mesoamerica. Lord of wind, wisdom, and morning star.
 
 **Abilities:**
@@ -3750,6 +3886,7 @@ The feathered serpent god of Mesoamerica. Lord of wind, wisdom, and morning star
 <summary>Anansi</summary>
 
 **Impact: 2**
+
 The African trickster spider god. Master of stories, webs, and cunning.
 
 **Abilities:**
@@ -3776,6 +3913,7 @@ The African trickster spider god. Master of stories, webs, and cunning.
 <summary>Mami Wata</summary>
 
 **Impact: 3**
+
 An African water spirit of immense beauty and power. You command the waters and enchant all who see you.
 
 **Abilities:**
@@ -3800,6 +3938,7 @@ An African water spirit of immense beauty and power. You command the waters and 
 <summary>Wraith</summary>
 
 **Impact: 3**
+
 A vengeful undead spirit. Phase through walls, drain life, and haunt the night.
 
 **Abilities:**
@@ -3826,6 +3965,7 @@ A vengeful undead spirit. Phase through walls, drain life, and haunt the night.
 <summary>Cockatrice</summary>
 
 **Impact: 2**
+
 A two-legged dragon-rooster hybrid. Your gaze kills and your breath poisons.
 
 **Abilities:**
@@ -3850,6 +3990,7 @@ A two-legged dragon-rooster hybrid. Your gaze kills and your breath poisons.
 <summary>Imp</summary>
 
 **Impact: 1**
+
 A tiny mischievous demon. Small, quick, fire-resistant, and full of tricks.
 
 **Abilities:**
@@ -3876,6 +4017,7 @@ A tiny mischievous demon. Small, quick, fire-resistant, and full of tricks.
 <summary>Sharpness</summary>
 
 **Impact: 2**
+
 You are the living embodiment of a honed blade. Every strike cuts deeper, every movement is precise but your razor-thin form is fragile.
 
 **Abilities:**
@@ -3896,6 +4038,7 @@ You are the living embodiment of a honed blade. Every strike cuts deeper, every 
 <summary>Smite</summary>
 
 **Impact: 2**
+
 Blessed by holy light, you are a divine warrior sworn to purge the undead. The sun empowers you, but darkness weakens your resolve.
 
 **Abilities:**
@@ -3918,6 +4061,7 @@ Blessed by holy light, you are a divine warrior sworn to purge the undead. The s
 <summary>Bane of Arthropods</summary>
 
 **Impact: 1**
+
 You are the exterminator. Bugs flee from your presence. Your venomous touch and nimble body make you a terror to all creepy-crawlies.
 
 **Abilities:**
@@ -3940,6 +4084,7 @@ You are the exterminator. Bugs flee from your presence. Your venomous touch and 
 <summary>Knockback</summary>
 
 **Impact: 2**
+
 You are an unstoppable force. Every hit sends foes flying, and nothing can push you around. But all that mass makes you slow.
 
 **Abilities:**
@@ -3964,6 +4109,7 @@ You are an unstoppable force. Every hit sends foes flying, and nothing can push 
 <summary>Fire Aspect</summary>
 
 **Impact: 3**
+
 Your very touch ignites the world. Born of living flame, you are immune to fire and deal burning damage but water is your nemesis.
 
 **Abilities:**
@@ -3986,6 +4132,7 @@ Your very touch ignites the world. Born of living flame, you are immune to fire 
 <summary>Looting</summary>
 
 **Impact: 1**
+
 Fortune favors you. You find more, carry more, and luck follows wherever you go but your greedy nature has made you soft.
 
 **Abilities:**
@@ -4006,6 +4153,7 @@ Fortune favors you. You find more, carry more, and luck follows wherever you go 
 <summary>Sweeping Edge</summary>
 
 **Impact: 2**
+
 A whirlwind warrior whose every swing carves an arc of destruction. You fight with reach and speed, but your wide stance leaves you exposed.
 
 **Abilities:**
@@ -4028,6 +4176,7 @@ A whirlwind warrior whose every swing carves an arc of destruction. You fight wi
 <summary>Protection</summary>
 
 **Impact: 3**
+
 A living fortress. Your body is encased in impenetrable energy, making you nearly invulnerable but incredibly slow and heavy.
 
 **Abilities:**
@@ -4052,6 +4201,7 @@ A living fortress. Your body is encased in impenetrable energy, making you nearl
 <summary>Fire Protection</summary>
 
 **Impact: 2**
+
 Wrapped in heat-resistant energy, you are completely immune to fire and lava. Your body radiates warmth, but you overheat easily.
 
 **Abilities:**
@@ -4074,6 +4224,7 @@ Wrapped in heat-resistant energy, you are completely immune to fire and lava. Yo
 <summary>Blast Protection</summary>
 
 **Impact: 2**
+
 Built to withstand explosions, your body absorbs shockwaves and shrugs off concussive force. You're tough as a bunker, but slow as one too.
 
 **Abilities:**
@@ -4096,6 +4247,7 @@ Built to withstand explosions, your body absorbs shockwaves and shrugs off concu
 <summary>Projectile Protection</summary>
 
 **Impact: 2**
+
 Your reflexes are supernatural. Arrows and projectiles barely scratch you. You're agile and evasive, though your body is light and frail.
 
 **Abilities:**
@@ -4116,6 +4268,7 @@ Your reflexes are supernatural. Arrows and projectiles barely scratch you. You'r
 <summary>Thorns</summary>
 
 **Impact: 2**
+
 Your body bristles with sharp thorns that punish anyone who dares to strike you. A painful embrace for your enemies and sometimes your allies.
 
 **Abilities:**
@@ -4140,6 +4293,7 @@ Your body bristles with sharp thorns that punish anyone who dares to strike you.
 <summary>Respiration</summary>
 
 **Impact: 2**
+
 Your lungs are limitless. You breathe freely underwater and move through oceans with ease. The deep calls to you.
 
 **Abilities:**
@@ -4162,6 +4316,7 @@ Your lungs are limitless. You breathe freely underwater and move through oceans 
 <summary>Aqua Affinity</summary>
 
 **Impact: 2**
+
 You are one with the water. Mining, moving, fighting everything feels natural underwater. On land, you feel sluggish and out of place.
 
 **Abilities:**
@@ -4184,6 +4339,7 @@ You are one with the water. Mining, moving, fighting everything feels natural un
 <summary>Depth Strider</summary>
 
 **Impact: 3**
+
 You walk the ocean floor as easily as others walk on land. The deepest trenches are your home. Sunlight and dry air are your enemies.
 
 **Abilities:**
@@ -4208,6 +4364,7 @@ You walk the ocean floor as easily as others walk on land. The deepest trenches 
 <summary>Frost Walker</summary>
 
 **Impact: 3**
+
 An entity of pure cold. Water freezes beneath your feet, your breath chills to the bone, and fire is your greatest weakness.
 
 **Abilities:**
@@ -4232,6 +4389,7 @@ An entity of pure cold. Water freezes beneath your feet, your breath chills to t
 <summary>Feather Falling</summary>
 
 **Impact: 2**
+
 Light as a feather, you drift gently through the air. Falls never hurt you, and you can launch yourself skyward but a strong breeze could knock you over.
 
 **Abilities:**
@@ -4254,6 +4412,7 @@ Light as a feather, you drift gently through the air. Falls never hurt you, and 
 <summary>Soul Speed</summary>
 
 **Impact: 3**
+
 Fueled by the souls of the damned, you blaze across any terrain at supernatural speed. The Nether is your home, but your body burns through energy fast.
 
 **Abilities:**
@@ -4278,6 +4437,7 @@ Fueled by the souls of the damned, you blaze across any terrain at supernatural 
 <summary>Swift Sneak</summary>
 
 **Impact: 2**
+
 A shadow operative. You move at full speed even while sneaking, see in the dark, and your translucent form is difficult to spot.
 
 **Abilities:**
@@ -4302,6 +4462,7 @@ A shadow operative. You move at full speed even while sneaking, see in the dark,
 <summary>Efficiency</summary>
 
 **Impact: 2**
+
 Everything you do is faster. Mining, moving, fighting you operate at maximum efficiency. But you burn through energy at an alarming rate.
 
 **Abilities:**
@@ -4324,6 +4485,7 @@ Everything you do is faster. Mining, moving, fighting you operate at maximum eff
 <summary>Silk Touch</summary>
 
 **Impact: 1**
+
 Your gentle hands preserve everything they touch. You carry more and move with delicate grace but your fragile form shatters easily.
 
 **Abilities:**
@@ -4346,6 +4508,7 @@ Your gentle hands preserve everything they touch. You carry more and move with d
 <summary>Fortune</summary>
 
 **Impact: 1**
+
 Lady Luck herself smiles upon you. Everything goes your way more loot, more health, more life. But fortune is fickle, and your body reflects that.
 
 **Abilities:**
@@ -4366,6 +4529,7 @@ Lady Luck herself smiles upon you. Everything goes your way more loot, more heal
 <summary>Unbreaking</summary>
 
 **Impact: 3**
+
 Indestructible. Your body simply refuses to break. Massive health, natural armor, and incredible resilience but you pay for it with speed.
 
 **Abilities:**
@@ -4392,6 +4556,7 @@ Indestructible. Your body simply refuses to break. Massive health, natural armor
 <summary>Power</summary>
 
 **Impact: 3**
+
 Raw destructive force flows through you. Every attack hits like a cannon blast. You are a glass cannon devastating but fragile.
 
 **Abilities:**
@@ -4414,6 +4579,7 @@ Raw destructive force flows through you. Every attack hits like a cannon blast. 
 <summary>Punch</summary>
 
 **Impact: 2**
+
 Your fists carry the force of a siege weapon. Every hit sends foes flying across the horizon. You live to punch things really, really far.
 
 **Abilities:**
@@ -4438,6 +4604,7 @@ Your fists carry the force of a siege weapon. Every hit sends foes flying across
 <summary>Flame</summary>
 
 **Impact: 3**
+
 A being of pure fire, you set everything ablaze with your presence. Fire is your ally, water is your doom.
 
 **Abilities:**
@@ -4462,6 +4629,7 @@ A being of pure fire, you set everything ablaze with your presence. Fire is your
 <summary>Infinity</summary>
 
 **Impact: 3**
+
 You transcend mortal limits. Infinite flight, teleportation, and a body that exists partially beyond this dimension. Truly limitless but ethereal and fragile.
 
 **Abilities:**
@@ -4484,6 +4652,7 @@ You transcend mortal limits. Infinite flight, teleportation, and a body that exi
 <summary>Multishot</summary>
 
 **Impact: 2**
+
 You attack in volleys. A barrage of projectiles at your command, striking everything in sight. Quantity over quality.
 
 **Abilities:**
@@ -4506,6 +4675,7 @@ You attack in volleys. A barrage of projectiles at your command, striking everyt
 <summary>Piercing</summary>
 
 **Impact: 2**
+
 Your attacks penetrate any defense. Armor means nothing to you. A precise, deadly combatant that cuts through protection like paper.
 
 **Abilities:**
@@ -4528,6 +4698,7 @@ Your attacks penetrate any defense. Armor means nothing to you. A precise, deadl
 <summary>Quick Charge</summary>
 
 **Impact: 2**
+
 Everything about you is fast lightning reflexes, blinding speed, rapid attacks. You zip around the battlefield like a bolt of energy.
 
 **Abilities:**
@@ -4550,6 +4721,7 @@ Everything about you is fast lightning reflexes, blinding speed, rapid attacks. 
 <summary>Loyalty</summary>
 
 **Impact: 2**
+
 Bound by an unbreakable oath, you always return. Death cannot hold you for long. Your loyal spirit grants you endurance and the ability to recall yourself to safety.
 
 **Abilities:**
@@ -4570,6 +4742,7 @@ Bound by an unbreakable oath, you always return. Death cannot hold you for long.
 <summary>Riptide</summary>
 
 **Impact: 3**
+
 You are the living current. Launch yourself through air and water like a torpedo. The ocean empowers you, but dry land drains your strength.
 
 **Abilities:**
@@ -4594,6 +4767,7 @@ You are the living current. Launch yourself through air and water like a torpedo
 <summary>Channeling</summary>
 
 **Impact: 3**
+
 You channel the power of storms. Lightning crackles through your body, empowering your strikes and illuminating the darkness. But you're a lightning rod for trouble.
 
 **Abilities:**
@@ -4618,6 +4792,7 @@ You channel the power of storms. Lightning crackles through your body, empowerin
 <summary>Impaling</summary>
 
 **Impact: 2**
+
 A spear-like warrior built to skewer. Your attacks devastate with brutal reach, and you thrive in water. On land, you lose your edge.
 
 **Abilities:**
@@ -4640,6 +4815,7 @@ A spear-like warrior built to skewer. Your attacks devastate with brutal reach, 
 <summary>Luck of the Sea</summary>
 
 **Impact: 2**
+
 The ocean's fortune blesses you. Incredible luck, water breathing, and the sea's bounty are yours. But stray too far from water and your luck runs dry.
 
 **Abilities:**
@@ -4662,6 +4838,7 @@ The ocean's fortune blesses you. Incredible luck, water breathing, and the sea's
 <summary>Lure</summary>
 
 **Impact: 1**
+
 You attract everything fish, mobs, and opportunity. Your magnetic presence draws creatures in, but also makes you a target.
 
 **Abilities:**
@@ -4684,6 +4861,7 @@ You attract everything fish, mobs, and opportunity. Your magnetic presence draws
 <summary>Mending</summary>
 
 **Impact: 2**
+
 Your body constantly repairs itself. Wounds close, bones mend, and you regenerate endlessly. But this constant healing leaves you perpetually hungry.
 
 **Abilities:**
@@ -4706,6 +4884,7 @@ Your body constantly repairs itself. Wounds close, bones mend, and you regenerat
 <summary>Curse of Vanishing</summary>
 
 **Impact: 3**
+
 You are cursed to fade from existence. Your phantom-like form can phase through walls and turn invisible, but you are frail, transparent, and haunted.
 
 **Abilities:**
@@ -4730,6 +4909,7 @@ You are cursed to fade from existence. Your phantom-like form can phase through 
 <summary>Curse of Binding</summary>
 
 **Impact: 3**
+
 Cursed to be bound in place. You are encased in immovable armor that grants incredible protection but chains you to a slow, heavy existence.
 
 **Abilities:**
@@ -4756,6 +4936,7 @@ Cursed to be bound in place. You are encased in immovable armor that grants incr
 <summary>Wind Burst</summary>
 
 **Impact: 3**
+
 You are the wind itself. Launch into the sky, dash through the air, and never fear a fall. Your airy form is fast but insubstantial.
 
 **Abilities:**
@@ -4782,6 +4963,7 @@ You are the wind itself. Launch into the sky, dash through the air, and never fe
 <summary>Density</summary>
 
 **Impact: 3**
+
 Compressed to extreme density, your body is a wrecking ball. Devastatingly strong, nearly indestructible, and impossibly heavy. The ground trembles beneath you.
 
 **Abilities:**
@@ -4810,6 +4992,7 @@ Compressed to extreme density, your body is a wrecking ball. Devastatingly stron
 <summary>Breach</summary>
 
 **Impact: 2**
+
 You shatter defenses. Your armor-piercing attacks cut through any protection. A surgical striker built to eliminate the toughest targets.
 
 **Abilities:**
@@ -4834,6 +5017,7 @@ You shatter defenses. Your armor-piercing attacks cut through any protection. A 
 <summary>MaceMeta</summary>
 
 **Impact: 0**
+
 ORIGIN The ultimate power. Give items, enchant, change gamemode, swap origins, apply effects, modify attributes, and toggle gamerules. All without commands. Press G to open the admin panel.
 
 **Abilities:**
@@ -4861,7 +5045,5 @@ ORIGIN The ultimate power. Give items, enchant, change gamemode, swap origins, a
    * You can breathe underwater.
 * All-Seeing
    * Permanent night vision.
-
-**Weaknesses:**
 
 </details>
