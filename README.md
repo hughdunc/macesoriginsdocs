@@ -3,8 +3,9 @@
 A markdown version of all [Maces Origins](https://modrinth.com/mod/maces-origins) types.
 Click below to access. Not made by mace.
 
-<details>
-<summary>All 195 origins (+1 Admin-Only)</summary>
+All 195 origins (+1 Admin-Only) are below.
+
+
 <details>
 <summary>Human</summary>
 
@@ -5053,5 +5054,4 @@ ORIGIN The ultimate power. Give items, enchant, change gamemode, swap origins, a
 * All-Seeing
    * Permanent night vision.
 
-</details>
 </details>
