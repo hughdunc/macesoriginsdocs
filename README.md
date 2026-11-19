@@ -1,4 +1,6 @@
 <details>
+<summary>All 195 origins (+1 Admin-Only)</summary>
+<details>
 <summary>Human</summary>
 
 **Impact: 0**
@@ -5014,7 +5016,7 @@ You shatter defenses. Your armor-piercing attacks cut through any protection. A 
 </details>
 
 <details>
-<summary>MaceMeta</summary>
+<summary>MaceMeta (Admin Only)</summary>
 
 **Impact: 0**
 
@@ -5046,4 +5048,5 @@ ORIGIN The ultimate power. Give items, enchant, change gamemode, swap origins, a
 * All-Seeing
    * Permanent night vision.
 
+</details>
 </details>
