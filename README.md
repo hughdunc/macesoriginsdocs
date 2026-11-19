@@ -1,3 +1,8 @@
+# Maces Origins Docs
+
+A markdown version of all [Maces Origins](https://modrinth.com/mod/maces-origins) types.
+Click below to access. Not made by mace.
+
 <details>
 <summary>All 195 origins (+1 Admin-Only)</summary>
 <details>
